@@ -2,7 +2,7 @@
 An API designed to handle and serve files (photos).
 
 ## Abstract
-I built this API in order to learn how to handle file uploads with ExpressJS. This was the first RestAPI I build in TypeScript, so I had to read through different articles and follow different tutorials in order to make it work.
+I built this API in order to learn how to handle file uploads with ExpressJS. This was the first RestAPI I build with TypeScript, so I had to read through different articles and follow different tutorials in order to make it work.
 
 This app is quite easy to set up, and it contains a simple structure. If you want to run this app, either clone or download the repo and execute app.js using Node or Nodemon.
 
